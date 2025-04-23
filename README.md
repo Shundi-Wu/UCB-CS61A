@@ -1,4 +1,4 @@
-# UCB_CS61A
+# UCB-CS61A
 
 ### What is CS61A ?
 
